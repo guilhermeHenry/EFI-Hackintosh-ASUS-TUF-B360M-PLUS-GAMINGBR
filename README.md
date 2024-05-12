@@ -7,7 +7,7 @@ Desempenho considerável, funcionalidades 100%
     <td><img src="./assets/video-card-rx-570-4gb-armor-msi.jpg" width="250"></td>
     <td><img src="./assets/network-board-bcm94360.png" width="100"></td>
     <td><img src="./assets/inter-core-i3-8100.jpg" width="250"></td>
-    <td><img src="./assets/Memoria-Desktop-DDR3-e-DDR4-4GB.jpg" width="400"></td>
+    <td><img src="./assets/ddr4-4gn.jpg" width="400"></td>
   </tr>
   <tr align="left">
     <td><small>ASUS TUF B360M-PLUS GAMING/BR</small></td>
